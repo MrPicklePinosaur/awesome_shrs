@@ -12,6 +12,7 @@ collection of 3rd party plugins and shells built with shrs
 Third-party plugins for shrs
 - [shrs_insulter](https://github.com/nithinmuthukumar/shrs_insulter): port of [bash insulter](https://github.com/hkbakke/bash-insulter)
 - [shrs_reedline](https://github.com/MrPicklePinosaur/shrs_reedline): adapter layer to use [reedline](https://github.com/nushell/reedline) instead of shrs line
+- [shrs_openai](https://github.com/MrPicklePinosaur/shrs_openai): chatgpt for your shell
 
 ## Shells
 
