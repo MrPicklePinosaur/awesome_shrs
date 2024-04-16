@@ -15,7 +15,7 @@ Third-party plugins for shrs
 - [shrs_openai](https://github.com/MrPicklePinosaur/shrs_openai): chatgpt for your shell
 - [shrs_presence](https://github.com/nithinmuthukumar/shrs_presence): show shrs on discord presence
 - [shrs_pride](https://github.com/nithinmuthukumar/shrs_pride): Pride themed prompt and highlighter for shrs
-
+- [shrs sound](https://github.com/nithinmuthukumar/shrs_sound): Sound plugin for shrs
 ## Shells
 
 Full shells that were built with shrs
